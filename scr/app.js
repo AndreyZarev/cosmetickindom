@@ -1,6 +1,6 @@
 import page from "./../node_modules/page/page.mjs";
 // import page from "../../node_modules/pages/page.mjs";
-
+debugger
 import {authMidleware} from "./midleware/authMidleware.js";
 
 import {navbarView} from "./views/navbar.js";
